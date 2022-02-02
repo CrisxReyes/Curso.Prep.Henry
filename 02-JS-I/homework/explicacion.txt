@@ -1,0 +1,10 @@
+* Variables
+    Son espacios reservados para asignarles un valor de cualquier tipo.
+* Strings
+    Cadenas o conjuntos de caracteres (letras) que forman palabras.
+* Funciones (argumentos, `return`)
+    Es un conjunto de acciones que trabajan con los valores dados y el resultado del trabajo es retornado como resultado.
+* Declaraciones `if`
+    Es una condicion que se debe cumplir para seguir ejecutando el codigo, si no se cumple se puede saltar esas acciones.
+* Valores booleanos (`true`, `false`)
+    Unicamente existen dos valores booleanos, verdadero y falso.
