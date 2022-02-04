@@ -1,0 +1,8 @@
+* `for`
+    Es una funcion que repite la misma accion las veces que lo indique la condicional.
+* `&&`
+    Es un operador que evalua dos expresiones y para que sea verdadera la comparacion, ambas expresiones tambien deben de ser verdaderas.
+* `||`
+    El operador OR compara dos expresiones pero basta que una sea verdadera para que la comparacion sea verdadera.
+* `!`
+    Este simbolo va a invertir el valor de la expresion a la cual se le asigne del lado izquierdo.
