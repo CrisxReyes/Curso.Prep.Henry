@@ -1,0 +1,2 @@
+	* Arrays
+        Son conjuntos de elementos de diferentes tipos en el cual cada elemento va a tener un indice para identificarlo y se pueden manipular individualmente o como grupo.
