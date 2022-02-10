@@ -1,0 +1,10 @@
+* Objetos
+    son elementos que contienen propiedades y funciones dentro del mismo, se pueden definir como "plantillas" para crear elementos con esas mismas propiedades.
+* Propiedades
+    son las caracteristicas que tienen los objetos 
+* Métodos
+    son funciones que pertenecen al objeto y realizan acciones dentro del mismo
+* Bucle `for…in`
+    es un bucle que recorre todas las propiedades dentro del objeto, como un for con un arreglo pero este es con las propiedades del objeto 
+* Notación de puntos vs notación de corchetes
+    es mas comun usada la notacion de puntos, sin embargo puede ser mas practico utilizas los corchetes, dependiendo de la organizacion de nuestro codigo
