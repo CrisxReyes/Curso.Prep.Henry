@@ -1,0 +1,4 @@
+* `prototype`
+    es un objeto que contiene funciones que pueden ser asignadas a las clases y se invocadas por objetos que pertenezcan a esa clase
+* _Constructors_ (de Clases)
+    es una platilla que crea al objeto con la forma de la clase a la que pertenezca
