@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(25, 213, 238);
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    /*height: 600px;
+    width: 500px;*/
+    background: navy;
+    padding: 20px;
+    border: 15px solid rgb(173, 20, 20);
+    margin: 0 auto;
+    display: flex;
+    justify-content:center;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    background-image: url("../img/paisaje2.jpg")
+}
+
+.divClass {
+    text-align: center;
+    margin: 0 auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
